@@ -40,8 +40,13 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  |Crie um titulo para um ebook sobre o tema de Inteligência Artificial, o nicho de negócio seriam empresas do tipo clinicas médicas e de estética, advogados, profissionais liberais, o foco do uso da IA é principalmente atendimento para esclarecer dúvidas dos serviços, agendamento de horários  e envio de orçamentos, o título deve ser curto e despertar a curiosidade para a leitura, uma sugestão pode ser relacionado ao tempo que a IA pode proporcionar com um atendimento humanizado. Tenha uma temática para pessoas leigas no assunto da IA.  Apresente pelo menos 5 opções.                                                         |
+| conteúdo | Faça um texto para ebook, com o focado neste título: "Mais Tempo, Mais Clientes: Como a IA Revoluciona seu Atendimento" com exemplos de fluxos de funcionalidades que a IA pode executar para uma empresa escritório de advocacia ou clínica médica
+{REGRAS}
+- Apresente informações que reduzam o tempo do cliente aumentando assim a sua produtividade
+- Deixe o texto enxuto
+- Apresente exemplo de uso
+- Deixe um texto sugestivo por tópico |
 
 
 Midjourney：

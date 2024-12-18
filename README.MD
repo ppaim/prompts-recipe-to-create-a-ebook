@@ -79,7 +79,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <a href="https://github.com/ppaim">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+ppaim">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/paulocorreap_/">
     Instagram</a>

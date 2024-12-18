@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Microsoft Designer](https://create.microsoft.com/pt-br/features/ai-image-generator)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -44,16 +44,16 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook, com o focado neste título: "Mais Tempo, Mais Clientes: Como a IA Revoluciona seu Atendimento" com exemplos de fluxos de funcionalidades que a IA pode executar para uma empresa escritório de advocacia ou clínica médica {REGRAS} - Apresente informações que reduzam o tempo do cliente aumentando assim a sua produtividade - Deixe o texto enxuto - Apresente exemplo de uso - Deixe um texto sugestivo por tópico |
 
 
-Midjourney：
+Microsoft Designer：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Uma ilustração criativa de um Homem e uma Mulher atendendo vários telefones e escrevendo emails ao mesmo tempo no escritório, stressado por não dar conta de tudo ao mesmo tempo com várias pessoas querendo agendar um horário com pouco para conseguir trabalhar |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Microsoft Designer
 
 ## 📚 Materiais
 
